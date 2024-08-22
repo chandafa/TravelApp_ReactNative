@@ -1,0 +1,24 @@
+/* Dark Mode Styles */
+.dark-mode {
+    --primary-bg-color: #1e1e1e;
+    --secondary-bg-color: #2c2c2c;
+    --text-color: #ffffff;
+}
+
+.dark-mode .main-sidebar {
+    background-color: var(--primary-bg-color);
+}
+
+.dark-mode .main-header {
+    background-color: var(--primary-bg-color);
+}
+
+.dark-mode .content-wrapper {
+    background-color: var(--secondary-bg-color);
+    color: var(--text-color);
+}
+
+.dark-mode .navbar {
+    background-color: var(--primary-bg-color);
+    color: var(--text-color);
+}

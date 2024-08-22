@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "name": "Holiday Travel Agency",
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e02d1",
+    "rating": 4.7,
+    "reviews": 1450
+  },
+  {
+    "id": "2",
+    "name": "Happy Tour Planners",
+    "image": "https://images.unsplash.com/photo-1618591362251-1c9f70b591d6",
+    "rating": 4.8,
+    "reviews": 650
+  },
+  {
+    "id": "3",
+    "name": "Global Adventures",
+    "image": "https://images.unsplash.com/photo-1506765515384-028b60a970df",
+    "rating": 4.9,
+    "reviews": 1720
+  },
+  {
+    "id": "4",
+    "name": "Sunset Holidays",
+    "image": "https://images.unsplash.com/photo-1516810257881-8c8d1b4e1672",
+    "rating": 4.6,
+    "reviews": 980
+  },
+  {
+    "id": "5",
+    "name": "Nature Escape",
+    "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+    "rating": 4.5,
+    "reviews": 890
+  },
+  {
+    "id": "6",
+    "name": "City Breaks",
+    "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e",
+    "rating": 4.7,
+    "reviews": 1340
+  },
+  {
+    "id": "7",
+    "name": "Mountain Getaway",
+    "image": "https://images.unsplash.com/photo-1483683804023-6ccdb62f86ef",
+    "rating": 4.8,
+    "reviews": 1560
+  },
+  {
+    "id": "8",
+    "name": "Island Paradise Tours",
+    "image": "https://images.unsplash.com/photo-1502082553048-f009c37129b9",
+    "rating": 4.9,
+    "reviews": 1800
+  },
+  {
+    "id": "9",
+    "name": "Historical Voyages",
+    "image": "https://images.unsplash.com/photo-1494216327125-a36bdb9e62ed",
+    "rating": 4.6,
+    "reviews": 1110
+  },
+  {
+    "id": "10",
+    "name": "Luxury Escapes",
+    "image": "https://images.unsplash.com/photo-1505911762267-1d6b9c3e7174",
+    "rating": 4.8,
+    "reviews": 990
+  },
+  {
+    "id": "11",
+    "name": "Tropical Getaways",
+    "image": "https://images.unsplash.com/photo-1517466787929-d25a13db5b87",
+    "rating": 4.7,
+    "reviews": 1350
+  },
+  {
+    "id": "12",
+    "name": "Adventure Seekers",
+    "image": "https://images.unsplash.com/photo-1493100095663-3187b2a7b209",
+    "rating": 4.9,
+    "reviews": 1590
+  },
+  {
+    "id": "13",
+    "name": "Cultural Tours",
+    "image": "https://images.unsplash.com/photo-1493100095663-3187b2a7b209",
+    "rating": 4.5,
+    "reviews": 890
+  },
+  {
+    "id": "14",
+    "name": "Family Fun Trips",
+    "image": "https://images.unsplash.com/photo-1516774216993-9b1a07c35147",
+    "rating": 4.6,
+    "reviews": 960
+  },
+  {
+    "id": "15",
+    "name": "Eco-Friendly Travels",
+    "image": "https://images.unsplash.com/photo-1536454890860-016a7b628f0b",
+    "rating": 4.8,
+    "reviews": 1150
+  },
+  {
+    "id": "16",
+    "name": "Romantic Getaways",
+    "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+    "rating": 4.7,
+    "reviews": 1220
+  },
+  {
+    "id": "17",
+    "name": "Offbeat Trails",
+    "image": "https://images.unsplash.com/photo-1508830524289-0adcbe822b40",
+    "rating": 4.9,
+    "reviews": 1480
+  },
+  {
+    "id": "18",
+    "name": "Beachside Bliss",
+    "image": "https://images.unsplash.com/photo-1528832346911-df7cb65b2d8a",
+    "rating": 4.7,
+    "reviews": 1320
+  },
+  {
+    "id": "19",
+    "name": "Wilderness Explorers",
+    "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+    "rating": 4.6,
+    "reviews": 1050
+  },
+  {
+    "id": "20",
+    "name": "Scenic Routes",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335",
+    "rating": 4.8,
+    "reviews": 1290
+  }
+]

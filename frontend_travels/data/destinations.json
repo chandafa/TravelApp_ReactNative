@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1",
+    "name": "Misty Mountain Lodge",
+    "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06",
+    "description": "Experience the tranquility of the mountains in this serene lodge, perfect for adventurers.Experience the tranquility of the mountains in this serene lodge, perfect for adventurers.",
+    "rating": 4.7,
+    "price": "200",
+    "duration": "5",
+    "location": "Swiss Alps",
+    "category": "Mountains"
+  },
+  {
+    "id": "2",
+    "name": "Sunset Beach Retreat",
+    "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+    "description": "Relax at this beautiful beach retreat with stunning sunset views every evening.",
+    "rating": 4.9,
+    "price": "180",
+    "duration": "4",
+    "location": "Maldives",
+    "category": "Beaches"
+  },
+  {
+    "id": "3",
+    "name": "Historical Wonders",
+    "image": "https://images.unsplash.com/photo-1474511320723-9a56873867b5",
+    "description": "Explore the rich history of ancient civilizations in this guided tour.",
+    "rating": 4.6,
+    "price": "120",
+    "duration": "2",
+    "location": "Rome, Italy",
+    "category": "Histories Sites"
+  },
+  {
+    "id": "4",
+    "name": "Emerald Forest Escape",
+    "image": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d",
+    "description": "Reconnect with nature in this secluded forest getaway.",
+    "rating": 4.5,
+    "price": "140",
+    "duration": "3",
+    "location": "Black Forest, Germany",
+    "category": "Forest"
+  },
+  {
+    "id": "5",
+    "name": "City Lights Tour",
+    "image": "https://images.unsplash.com/photo-1474511320723-9a56873867b5",
+    "description": "Experience the vibrant nightlife and culture of this bustling city.",
+    "rating": 4.8,
+    "price": "100",
+    "duration": "1",
+    "location": "New York City, USA",
+    "category": "Cities"
+  },
+  {
+    "id": "6",
+    "name": "Crystal Lake Resort",
+    "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e",
+    "description": "Unwind by the serene crystal-clear lake in this peaceful resort.",
+    "rating": 4.7,
+    "price": "130",
+    "duration": "3",
+    "location": "Lake Tahoe, USA",
+    "category": "Lakes"
+  },
+  {
+    "id": "7",
+    "name": "Sahara Desert Expedition",
+    "image": "https://images.unsplash.com/photo-1502082553048-f009c37129b9",
+    "description": "Embark on a thrilling adventure through the vast Sahara Desert.",
+    "rating": 4.9,
+    "price": "250",
+    "duration": "7",
+    "location": "Sahara Desert, Morocco",
+    "category": "Deserts"
+  },
+  {
+    "id": "8",
+    "name": "Island Paradise Resort",
+    "image": "https://images.unsplash.com/photo-1474511320723-9a56873867b5",
+    "description": "Enjoy the ultimate island retreat with stunning ocean views.",
+    "rating": 4.9,
+    "price": "300",
+    "duration": "6",
+    "location": "Bora Bora, French Polynesia",
+    "category": "Islands"
+  },
+  {
+    "id": "9",
+    "name": "Grand Canyon Adventure",
+    "image": "https://images.unsplash.com/photo-1508830524289-0adcbe822b40",
+    "description": "Discover the breathtaking views and challenging hikes of this natural wonder.",
+    "rating": 4.8,
+    "price": "220",
+    "duration": "5",
+    "location": "Grand Canyon, USA",
+    "category": "National Parks"
+  },
+  {
+    "id": "10",
+    "name": "Cultural City Break",
+    "image": "https://images.unsplash.com/photo-1495195129352-aeb325a55b65",
+    "description": "Dive into the rich culture and history of this iconic city.",
+    "rating": 4.6,
+    "price": "90",
+    "duration": "2",
+    "location": "Kyoto, Japan",
+    "category": "Cities"
+  },
+  {
+    "id": "11",
+    "name": "Golden Sands Resort",
+    "image": "https://images.unsplash.com/photo-1448375240586-882707db888b",
+    "description": "Soak in the golden sands and warm sunshine at this luxurious beach resort.",
+    "rating": 4.8,
+    "price": "210",
+    "duration": "4",
+    "location": "Gold Coast, Australia",
+    "category": "Beaches"
+  },
+  {
+    "id": "12",
+    "name": "Snowy Peak Hideaway",
+    "image": "https://images.unsplash.com/photo-1474511320723-9a56873867b5",
+    "description": "Retreat to the cozy warmth of this hideaway amidst snow-capped peaks.",
+    "rating": 4.7,
+    "price": "190",
+    "duration": "6",
+    "location": "Rocky Mountains, USA",
+    "category": "Mountains"
+  },
+  {
+    "id": "13",
+    "name": "Ancient Ruins Explorer",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa",
+    "description": "Walk through the ancient ruins and discover the stories of a lost civilization.",
+    "rating": 4.6,
+    "price": "160",
+    "duration": "3",
+    "location": "Machu Picchu, Peru",
+    "category": "Histories Sites"
+  },
+  {
+    "id": "14",
+    "name": "Whispering Pines Cabin",
+    "image": "https://images.unsplash.com/photo-1502082553048-f009c37129b9",
+    "description": "Enjoy the peace and quiet of nature in this charming forest cabin.",
+    "rating": 4.5,
+    "price": "170",
+    "duration": "4",
+    "location": "Yosemite, USA",
+    "category": "Forest"
+  },
+  {
+    "id": "15",
+    "name": "Metropolitan Excursion",
+    "image": "https://images.unsplash.com/photo-1483030096298-27931b3a60b2",
+    "description": "Explore the exciting urban life of this bustling city.",
+    "rating": 4.8,
+    "price": "110",
+    "duration": "2",
+    "location": "Tokyo, Japan",
+    "category": "Cities"
+  },
+  {
+    "id": "16",
+    "name": "Tranquil Waters Resort",
+    "image": "https://images.unsplash.com/photo-1446057033162-7c6a23c0f41e",
+    "description": "Relax by the calm waters of this beautiful lakeside resort.",
+    "rating": 4.7,
+    "price": "150",
+    "duration": "3",
+    "location": "Lake Bled, Slovenia",
+    "category": "Lakes"
+  },
+  {
+    "id": "17",
+    "name": "Desert Mirage Adventure",
+    "image": "https://images.unsplash.com/photo-1506748686214-0b33eebecfbb",
+    "description": "Journey into the heart of the desert and experience its stunning beauty.",
+    "rating": 4.9,
+    "price": "230",
+    "duration": "5",
+    "location": "Wadi Rum, Jordan",
+    "category": "Deserts"
+  },
+  {
+    "id": "18",
+    "name": "Tropical Island Retreat",
+    "image": "https://images.unsplash.com/photo-1506748686214-5f64582e58d6",
+    "description": "Escape to this secluded tropical island for a relaxing getaway.",
+    "rating": 4.9,
+    "price": "280",
+    "duration": "7",
+    "location": "Fiji",
+    "category": "Islands"
+  },
+  {
+    "id": "19",
+    "name": "Canyon Explorer",
+    "image": "https://images.unsplash.com/photo-1506748686214-3de855ca5a5a",
+    "description": "Explore the rugged terrain and breathtaking views of this famous canyon.",
+    "rating": 4.7,
+    "price": "210",
+    "duration": "6",
+    "location": "Bryce Canyon, USA",
+    "category": "National Parks"
+  },
+  {
+    "id": "20",
+    "name": "Charming City Getaway",
+    "image": "https://images.unsplash.com/photo-1446034295857-c39f8844fad4",
+    "description": "Experience the charm and history of this picturesque city.",
+    "rating": 4.6,
+    "price": "95",
+    "duration": "2",
+    "location": "Prague, Czech Republic",
+    "category": "Cities"
+  }
+]
